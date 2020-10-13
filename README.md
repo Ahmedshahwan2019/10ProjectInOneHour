@@ -1,2 +1,2 @@
 # 10ProjectInOneHour
-buliding 10 project using Html, css and javeScript
+buliding 10 small project using Html, css and javeScript
